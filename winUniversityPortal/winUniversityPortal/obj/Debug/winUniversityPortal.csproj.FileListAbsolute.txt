@@ -1,0 +1,106 @@
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.exe.config
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.exe
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.pdb
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.Properties.Resources.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.GenerateResource.cache
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.CoreCompileInputs.cache
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.exe
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.pdb
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.LoginForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.dll
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.CopyComplete
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.PortalLoginForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS P\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.AdminDashboardForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.exe.config
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.exe
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.pdb
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.dll
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.AdminDashboardForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.LoginForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.PortalLoginForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.Properties.Resources.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.GenerateResource.cache
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.CoreCompileInputs.cache
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.CopyComplete
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.exe
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.pdb
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageStudentForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ChangePasswordForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageAdminForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageCourseForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageTeacherForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.UpdateStudentDetailsForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageNoticeForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.UpdateTeacherDetailsForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.StudentDashboardForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.AnnouncementForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.EnrolledCoursesForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.NoticesForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.StudentDetailsForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.TeacherDashboardForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.TeacherDetailsForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\CircularProgressBar.dll
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\WinFormAnimation.dll
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\CircularProgressBar.xml
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.CourseForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.EnrolledStudentsForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.ManageAnnouncementForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.StudentsForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.StudentUpdateForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csprojAssemblyReference.cache
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.UpdateCourseDetailsForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.StudentRegistrationForm.resources
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.exe.manifest
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.application
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.exe.manifest
+C:\Users\Arsalan Warsi\Desktop\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.application
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.exe.config
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.exe.manifest
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.application
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.exe
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\winUniversityPortal.pdb
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\CircularProgressBar.dll
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.Design.dll
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.dll
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\MetroFramework.Fonts.dll
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\WinFormAnimation.dll
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\bin\Debug\CircularProgressBar.xml
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.AssemblyReference.cache
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.SuggestedBindingRedirects.cache
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.AdminDashboardForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageNoticeForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.StudentRegistrationForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.UpdateCourseDetailsForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.UpdateStudentDetailsForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.UpdateTeacherDetailsForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ChangePasswordForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageAdminForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageCourseForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageStudentForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.AdminForm.ManageTeacherForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.LoginForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.PortalLoginForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.Properties.Resources.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.AnnouncementForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.EnrolledCoursesForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.NoticesForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.StudentDashboardForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.StudentForm.StudentDetailsForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.CourseForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.EnrolledStudentsForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.ManageAnnouncementForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.StudentsForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.StudentUpdateForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.TeacherDashboardForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.TeacherForm.TeacherDetailsForm.resources
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.GenerateResource.cache
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.exe.manifest
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.application
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.csproj.CopyComplete
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.exe
+E:\UNIVERSITY\5th Semester\Database Management System Lab\DBMS Project\winUniversityPortal\winUniversityPortal\obj\Debug\winUniversityPortal.pdb
